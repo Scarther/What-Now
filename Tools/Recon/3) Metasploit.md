@@ -172,8 +172,3 @@ You are now using the compromised IoT device as a proxy to scan the rest of the 
 *   **Instability:** Exploits, especially against cheap IoT hardware, can be unstable and may crash the target device.
 *   **Detection:** While Metasploit can be used stealthily, many exploits generate significant network noise that can be detected by an Intrusion Detection System (IDS).
 *   **Legality:** This is a direct, intrusive attack. Executing these exploits against devices you do not own is illegal and can have severe consequences. This guide is for educational use on authorized testbeds only.
-
-1 Citations
-
-r/sysadmin on Reddit: IoT devices are notoriously insecure, but why, how are they being exploited?
-https://www.reddit.com/r/sysadmin/comments/v0oy13/iot_devices_are_notoriously_insecure_but_why_how/
