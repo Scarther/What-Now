@@ -1,4 +1,5 @@
-### Disclaimer - This is for educational purpose only. Learning and expandind knowledge of tools and resources that are used frequently in the world today to educate you on how to protect yourself more. There is no Blue Team knowledge without having Red Team Knowledge. These tutorials and techniques should only be practiced on your own systems and computers.
+### Disclaimer
+This is for educational purpose only. Learning and expandind knowledge of tools and resources that are used frequently in the world today to educate you on how to protect yourself more. There is no Blue Team knowledge without having Red Team Knowledge. These tutorials and techniques should only be practiced on your own systems and computers.
 
 # What-Now?
 List and break down of tutorials and what nows. These are for educational purpose only
