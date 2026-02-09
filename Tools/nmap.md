@@ -158,7 +158,7 @@ Now that we have some basics down, we need to look into what these open ports ar
 
 
 # What Now?
-So, you get on your neighbors wifi, or have an IP that you want to see whats on the network. These scans are for if you are already on the network. 
+So, you get on your neighbors wifi, or on an open network. These scans are . 
 *Whether it be open networks or local password protected you just came across ;)*
 
 
