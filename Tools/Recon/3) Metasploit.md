@@ -1,11 +1,3 @@
-Yes, it's time to escalate. Focusing on IoT devices is the logical next step because they are notoriously insecure and often represent the weakest link on a modern LAN. Your goal is to move from observing services to actively exploiting them to gain control.
-
-The perfect tool for this is **Metasploit**. It's an exploitation framework that takes the vulnerabilities you find (like default passwords or outdated firmware) and gives you the code (payloads and exploits) to turn them into a full-blown remote shell.
-
-Here is your tutorial for using Metasploit to compromise IoT devices on a local network.
-
----
-
 # Intrusive LAN Exploitation with Metasploit
 
 ## Introduction
